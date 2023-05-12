@@ -1,0 +1,33 @@
+header{
+    background-color: blue;
+    font-size: 20px;
+    padding-top: 50px;
+    border-bottom: yellow 20px solid;
+    }
+    ul {
+      margin: 0%;
+      padding:0%;
+    }
+    header ul{
+      float:right ;
+      display:inline;
+      padding: 0 20px 0 20px;
+  
+    }
+    header nav{
+      float:right;
+      margin-top:10px;
+    }
+    ul:visited{
+      color: coral;
+    }
+    ul:hover{
+      color: deeppink;
+    }
+    footer{
+        background-color: chartreuse;
+        margin-top: 20px;
+        color: azure;
+        text-align: center;
+        padding: 20px;
+    }
