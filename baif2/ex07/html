@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>ex05</title>
-        <link rel="stylesheet" href="ex07.css">
+        <link rel="stylesheet" href="08.css">
             
         <body>
             <header>
@@ -19,7 +19,7 @@
 
                 
             <img class="kk" src="https://toigingiuvedep.vn/wp-content/uploads/2021/10/hinh-anh-chill-dep-buon-cham-toi-trai-tim-bao-nguoi-2-820x462.jpg" alt="">
-            <div class="ac"
+            <div class="ac">
             <h2>Đăng ký để nhận thông báo từ chúng tôi</h2>
            <div class="ab">
             <input type="Nhap email">
