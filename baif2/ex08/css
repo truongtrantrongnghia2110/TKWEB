@@ -1,0 +1,85 @@
+header{
+    background-color: blue;
+    font-size: 20px;
+    padding-top: 50px;
+    border-bottom: yellow 20px solid;
+    }
+    ul {
+      margin: 0%;
+      padding:0%;
+    }
+    header ul{
+      float:right ;
+      display:inline;
+      padding: 0 20px 0 20px;
+  
+    }
+    header nav{
+      float:right;
+      margin-top:10px;
+    }
+    ul:visited{
+      color: coral;
+    }
+    ul:hover{
+      color: rgb(255, 20, 145);
+    }
+    footer{
+        background-color: chartreuse;
+        margin-top: 40%;
+        color: azure;
+        text-align: center;
+        padding: 20px;
+    
+    }
+    .kk{
+      width: 1570px;
+      height: 500px;
+    }
+    .text{
+      text-align: center;
+      color:rgb(10, 10, 9);
+      position:absolute;
+      font-size: 30px;
+      height: 20px;
+      width: 100%;
+    }
+      .eq{
+        width: 1500px;
+        height: 200px;
+      }
+    
+
+    
+    .ab{
+        
+            text-align: right;
+            padding-left: 40px;
+            width: 1;
+            padding-to;
+        }
+        .ab.ac{
+            position: absolute;
+            text-align: right;
+            color: #0a0909
+        }
+        .ae{
+            width:25% ;
+            padding: 1%;
+            float: left;
+        }
+        .ar{
+            width:25% ;
+            padding: 1%;
+            float: left; 
+    
+        }
+          .at{
+            width:25% ;
+            padding: 1%;
+            float: left;    
+          }
+          .eq{
+            width: 1500px;
+            height: 200px;
+          }
