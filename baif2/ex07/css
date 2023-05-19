@@ -43,10 +43,14 @@ header{
 
     }
     .ab{
-        background-color:rgb(34, 91, 117);
-        width: 800px;
-        height: 10px;
-        padding-bottom: 40px;
-        display:block;
-        text-align: left;
-    }
+        
+            text-align: right;
+            padding-left: 40px;
+            width: 1;
+            padding-to;
+        }
+        .ab.ac{
+            position: absolute;
+            text-align: right;
+            color: #0a0909
+        }
